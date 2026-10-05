@@ -1,0 +1,15 @@
+Prompt para resumo em áudio
+Crie um resumo em formato de roteiro para áudio sobre Inteligência Artificial Generativa e Engenharia de Prompts.
+
+Explique de maneira simples e progressiva:
+- o que é IA Generativa;
+- o que são LLMs;
+- o que são tokens;
+- o que é janela de contexto;
+- o que é engenharia de prompts;
+- diferença entre chatbot, copiloto e agente;
+- limitações e alucinações;
+- importância da revisão humana;
+- uso responsável da IA.
+
+O conteúdo deve ser baseado exclusivamente nas fontes disponíveis no notebook.
